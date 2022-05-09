@@ -1,0 +1,7 @@
+.container {
+    background-image: url('../assets/allbackgroundstars.png');
+    background-size: auto;
+    width: 100%;
+    height: 100%;
+    background-position: 0 -1200px;
+}
